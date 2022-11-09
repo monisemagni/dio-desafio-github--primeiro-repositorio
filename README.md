@@ -17,9 +17,9 @@ Os editores de código são específicos da linguagem de programação. Alguns e
 No mundo em que vivemos, a tecnologia tem se tornado cada vez mais importante. Nesse sentido, usar um editor de código fonte online que mais se adeque às suas necessidades pode melhorar a velocidade da codificação. Pensando nisso, elaboramos este artigo com dez opções para você escolher o melhor editor de código para seu objetivo!
 ## Projetos Realizados::1st_place_medal:
 
-### Desafio 1 - Programa para calcular o valor gasto de combustível de uma viagem
+### Desafio 1 - Programa para calcular o valor gasto de combustível de uma viagem (nível 1)
 Uso de 3 **const** para um programa simples.
-### Desafio 2 - Programa para calcular o valor gasto de combustível de uma viagem
+### Desafio 2 - Programa para calcular o valor gasto de combustível de uma viagem (nível 2)
 Uso de **const** e **var** para um programa um pouco mais complexo.
 ### Desafio 3 - Programa para calcular a média de notas e a classificação de alunos
 Uso de **const** e de **Estruturas Condicionais** como *if*, *if else* e *else*.
