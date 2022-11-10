@@ -23,6 +23,8 @@ Uso de 3 **const** para um programa simples.
 Uso de **const** e **var** para um programa um pouco mais complexo.
 ### Desafio 3 - Programa para calcular a média de notas e a classificação de alunos
 Uso de **const** e de **Estruturas Condicionais** como *if*, *if else* e *else*.
+### Desafio 4 - Programa para calcular o IMC (Índice de Massa Corporal) de adultos e indicar a condição de peso.
+Uso de **const** e de **Estruturas Condicionais** como *if*, *if else* e *else*.
 
 ## Leituras Recomendadas::books:
 #### - [Entenda a diferença entre var, let e const no JavaScript](https://www.alura.com.br/artigos/entenda-diferenca-entre-var-let-e-const-no-javascript#var):
