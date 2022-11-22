@@ -1,0 +1,22 @@
+{
+  "name": "dio-desafio-github--primeiro-repositorio",
+  "version": "1.0.0",
+  "description": "Repositório criado para os Desafios de Projeto do Bootcamp.",
+  "main": "challenge_01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monisemagni/dio-desafio-github--primeiro-repositorio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monisemagni/dio-desafio-github--primeiro-repositorio/issues"
+  },
+  "homepage": "https://github.com/monisemagni/dio-desafio-github--primeiro-repositorio#readme",
+  "devDependencies": {
+    "eslint": "^8.27.0"
+  }
+}
