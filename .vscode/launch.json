@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\challenge_01.js"
+            "program": "${workspaceFolder}\\challenge_somando_multiplos.js"
         }
     ]
 }

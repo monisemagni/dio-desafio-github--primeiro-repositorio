@@ -7,11 +7,14 @@
  
 //TODO:  Retorne o valor da soma de todos múltiplos de "A" até o seu limite "N".
 
+const a = 3;
+const n = 18;
+let somatorio = 0;
 
-const (5, 50);
-const numerosInteiros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-for (let i = 0; i < numerosInteiros.length; i++) {
-    const numero = ((numero % 2 === 0)) =  numero[i];{
-        console.log(numero)}
+for (let i = a; i <= n; i++) {
+    if (i % a === 0) {
+        somatorio = somatorio + i;
+    }
 }
 
+console.log(somatorio);
